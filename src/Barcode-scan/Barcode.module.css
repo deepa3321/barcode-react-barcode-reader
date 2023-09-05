@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background-color: white;
+}
+
+.result {
+  margin-top: 20px;
+  word-wrap: break-word;
+  width: 100%;
+}
